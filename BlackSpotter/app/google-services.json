@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "264514060779",
+    "firebase_url": "https://blackspotter-2609a.firebaseio.com",
+    "project_id": "blackspotter-2609a",
+    "storage_bucket": "blackspotter-2609a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264514060779:android:a3b4da56c974289d",
+        "android_client_info": {
+          "package_name": "vitcc.tarp.blackspotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264514060779-bfh6ahvepqbhqiruu0ah67b5pt4f5ik7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vitcc.tarp.blackspotter",
+            "certificate_hash": "e5ef83de7ee31ee82dd9f990acc20508dfdfbd56"
+          }
+        },
+        {
+          "client_id": "264514060779-f8ncrp2arvsah6kfuacn420kgr0ph9ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCavWocF49ISP2TJtn6UV73JLE-rY7kEGk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264514060779-f8ncrp2arvsah6kfuacn420kgr0ph9ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
